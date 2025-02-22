@@ -1,6 +1,6 @@
 # CSCI218 Group Project
-Group number: 60
-Topic: Travelling salesman problem
+Group number: 60  
+Topic: Travelling salesman problem  
 This repository contains all python programs and a Notebook doc with all codes.
 | Group Member | Student ID |
 | --- | --- |
